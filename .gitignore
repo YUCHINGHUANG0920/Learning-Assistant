@@ -1,0 +1,7 @@
+**/.DS_Store
+**/Pipfile
+**/Pipfile.lock
+
+.env
+frontend/build
+frontend/node_modules
