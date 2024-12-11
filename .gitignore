@@ -3,5 +3,5 @@
 **/Pipfile.lock
 
 .env
-frontend/build
-frontend/node_modules
+frontend_code/build
+frontend_code/node_modules
